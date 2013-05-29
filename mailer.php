@@ -2,7 +2,7 @@
 $email = $_POST['email'];
  
 $to = 'knuxus@gmail.com';
-$subject = 'academic x';
+$subject = 'academic x - new mail';
 $message = 'FROM: '.$email;
 $headers = 'From: academic@academic.com' . "\r\n";
  
