@@ -1,0 +1,38 @@
+/*  Logo and Header Navigation */
+
+.logo {  background:url(../../img/logo/logo.png)no-repeat; display:block;} 
+
+.navi li.active {  border-top:3px solid #facd1d; } 
+
+
+/*  Main Section */
+
+.main { background-color:#facd1d; }
+  
+input.button-newsletter  {  background: #fafafa; }
+
+
+/*  How it works Hover */
+
+.featu p.step-hover { color:#fff;  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1); background: none repeat scroll 0 0 #facd1d;}
+
+/*  Features Check Icon */
+
+.feature1 li {  background:url(../../img/icons/check-orange.png) no-repeat;  }
+
+
+/*  Screenshots Tabs active */
+
+.tabs-ul li.ui-tabs-active a { background-color:#facd1d;} 
+
+/*  Testimonials Hover */
+
+.quote img.quote-hover { color:#fff;  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1); background: none repeat scroll 0 0 #facd1d;}
+
+/*  Action */
+
+.action { background: #facd1d;    }
+.action h3 {   background: url(../../img/icons/action-orange.png) no-repeat scroll 0px 0px  ; }
+
+.action-button { background: url(../../img/buttons/arrow-orange.png) no-repeat scroll 110px 11px #fafafa  ; }
+input.input-submit  { background-color:#facd1d; }
