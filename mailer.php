@@ -1,8 +1,8 @@
 <?php
 $email = $_POST['email'];
  
-$to = 'knuxus@gmail.com';
-$subject = 'academic x - new mail';
+$to = 'ieeexacademic@gmail.com';
+$subject = '[IEEE-X Academic] New website registration';
 $message = 'FROM: '.$email;
 $headers = 'From: academic@academic.com' . "\r\n";
  
